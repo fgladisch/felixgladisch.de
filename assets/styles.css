@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 html,
 body {
   height: 100%;
@@ -8,6 +12,8 @@ body {
   background: linear-gradient(45deg, #009688, #f44336);
   color: #fff;
   cursor: default;
+  padding: 50px;
+  margin: 0;
 }
 
 .portrait {
