@@ -75,7 +75,11 @@ body {
   }
 
   .name {
-    font-size: 48px;
+    font-size: 24px;
+  }
+
+  .info {
+    font-size: 10px;
   }
 
   .links {
